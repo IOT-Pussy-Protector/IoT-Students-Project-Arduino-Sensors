@@ -17,7 +17,8 @@
 ## Documantatie pt codarea in ArduionIDE
  - https://docs.arduino.cc (documantatia oficiala de ArduinoIDE in caz de probleme sau pt. aprofundarea cunostintelor)
 
-> [!ATTENTION] Legat de senzorii programati in acest fisier
+> [!Warning] Legat de senzorii programati in acest fisier
 > Fiecare fisier trimis pana acum(10.04.2026) este cu probrame de cel mai de baza nivel
 > Senzorul MPU-9250/6500/9255 este configurat automat, poate fi configurat manual, pt o configurare mai precisa
 > Datele pot fi mult mai precise, codul poate sa fie mult mai bun, deci va rog sa nu va limitati doar la testele mele
+ 
