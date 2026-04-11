@@ -3,7 +3,8 @@
 ## Ce senzori am folosit
 1. MAX30102 - senzor de particule care masoara pulsul si oxigenul din sange.
 2. MPU-9250/6500/9255 - giroscop si acceleromatru pt. detectarea diferentei de miscare si de unghi pe axa 0xyz
-3. Tacticle push button switch - ca input pt aplicatie noastra.
+3. Tacticle push button switch - ca input pt aplicatia noastra.
+4. Motor de vibratii(coinmotor) - ca output pt aplicatia noastra.
 
 ## Documentatie
 ### Documantatia pt. MAX30102
